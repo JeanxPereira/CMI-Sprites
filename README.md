@@ -5,10 +5,10 @@
 ## Character Sprites Progress
 - [ ] Wally B. Feed
 - [ ] Murray
-- [x] Haggis McMutton;
-- [x] Edward Van Helgen;
-- [x] Cutthroat Bill;
-- [ ] Captain René Rottingham;
+- [x] Haggis McMutton
+- [x] Edward Van Helgen
+- [x] Cutthroat Bill
+- [ ] Captain René Rottingham
 - [ ] Cabana Boy
 - [ ] Mr. Fossey
 - [ ] Captain LeChimp
