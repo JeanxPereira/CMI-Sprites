@@ -38,3 +38,6 @@
 - [ ] Chapter 4: The Bartender, the Thieves, His Aunt, and Her Lover;
 - [ ] Chapter 5: Kiss of the Spider Monkey;
 - [ ] Chapter 6: Guybrush Kicks Butt Once Again
+
+## Items
+- [x] All Items
