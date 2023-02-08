@@ -3,7 +3,7 @@
 [WIP] The Curse Of Monkey Island Ripped Sprites
 
 ## Character Sprites Progress
-- [-] Guybrush Threepwood
+- [x] Guybrush Threepwood
 - [ ] Wally B. Feed
 - [ ] Murray
 - [x] Haggis McMutton
