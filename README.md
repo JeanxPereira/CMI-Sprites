@@ -1,4 +1,4 @@
-![alt ReCap logo and title](https://raw.githubusercontent.com/JeanxPereira/CMI-Sprites/main/CMI-Logo.png)
+![alt CMI Logo](https://raw.githubusercontent.com/JeanxPereira/CMI-Sprites/main/CMI-Logo.png)
 
 [WIP] The Curse Of Monkey Island Ripped Sprites
 
