@@ -9,6 +9,7 @@
 - [x] Haggis McMutton
 - [x] Edward Van Helgen
 - [x] Cutthroat Bill
+- [x] Cannibals (Banana, Lemon and Pineapple)
 - [ ] Captain René Rottingham
 - [ ] Cabana Boy
 - [ ] Mr. Fossey
