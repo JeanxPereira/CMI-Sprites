@@ -4,7 +4,7 @@
 
 ## Character Sprites Progress
 - [ ] Guybrush Threepwood
-- [ ] Wally B. Feed
+- [x] Wally B. Feed
 - [ ] Murray
 - [x] Haggis McMutton
 - [x] Edward Van Helgen
