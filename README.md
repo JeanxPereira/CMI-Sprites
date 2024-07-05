@@ -3,14 +3,14 @@
 [WIP] The Curse Of Monkey Island Ripped Sprites
 
 ## Character Sprites Progress
-- [ ] Guybrush Threepwood
+- [x] Guybrush Threepwood
 - [x] Wally B. Feed
 - [ ] Murray
 - [x] Haggis McMutton
 - [x] Edward Van Helgen
 - [x] Cutthroat Bill
 - [x] Cannibals (Banana, Lemon and Pineapple)
-- [ ] Captain René Rottingham
+- [x] Captain René Rottingham
 - [ ] Cabana Boy
 - [ ] Mr. Fossey
 - [ ] Captain LeChimp
