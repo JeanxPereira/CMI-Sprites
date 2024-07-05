@@ -10,7 +10,7 @@
 - [x] Edward Van Helgen
 - [x] Cutthroat Bill
 - [x] Cannibals (Banana, Lemon and Pineapple)
-- [ ] Captain René Rottingham
+- [x] Captain René Rottingham
 - [ ] Cabana Boy
 - [ ] Mr. Fossey
 - [ ] Captain LeChimp
